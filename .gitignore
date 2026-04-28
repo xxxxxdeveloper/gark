@@ -1,0 +1,7 @@
+# 1. ปิดตายทุกอย่าง
+*
+
+# 2. ยกเว้นเฉพาะพาธรูปและไฟล์ที่จำเป็น
+
+!sse_dashboard/service/assets/line/line_update.png
+!.gitignore
